@@ -1,4 +1,12 @@
-## Hi there 👋
+I am Adam a progammer/software developer
+
+Fun Fact: Go is actually pretty good
+
+## Projects
+- [Asteroids](https://codeberg.org/adammegarules/Asteroids) written in go (RayLib)
+- [My own Redis](https://codeberg.org/adammegarules/Redis-go) written in go (This one is good)
+- [Http Server](https://codeberg.org/adammegarules/Http-C) written in C (Learning Project)
+- [Text Analyzer](https://codeberg.org/adammegarules/Text-Analyzer) (Small one)
 
 <!--
 **AdamMegaRules/AdamMegaRules** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
