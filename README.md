@@ -8,7 +8,7 @@ Fun Fact: Go is actually pretty good
 - [Http Server](https://codeberg.org/adammegarules/Http-C), C learning project
 
 <!--
-**AdamMegaRules/AdamMegaRules** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Why are you reading this its boring use your time to install better linux distro 
 
 Here are some ideas to get you started:
 
