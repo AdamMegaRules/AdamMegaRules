@@ -3,9 +3,9 @@
 Fun Fact: Go is actually pretty good
 
 ## Projects
-- [Asteroids](https://codeberg.org/adammegarules/Asteroids) written in go (RayLib)
-- [My own Redis](https://codeberg.org/adammegarules/Redis-go) written in go (This one is good)
-- [Http Server](https://codeberg.org/adammegarules/Http-C) written in C (Learning Project)
+- [Asteroids](https://codeberg.org/adammegarules/Asteroids) Game usign Raylib
+- [My own Redis](https://codeberg.org/adammegarules/Redis-go), This one is Cool
+- [Http Server](https://codeberg.org/adammegarules/Http-C), C learning project
 
 <!--
 **AdamMegaRules/AdamMegaRules** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
